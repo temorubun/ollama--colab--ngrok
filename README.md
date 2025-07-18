@@ -18,18 +18,12 @@ Aplikasi ini adalah chatbot berbasis web yang dibangun menggunakan Streamlit dan
 
 ## Instalasi
 
-1. **Clone repository ini**
-   ```bash
-   git clone <repo-anda>
-   cd Chat-ollama-UI-main
-   ```
-
-2. **(Opsional) Jalankan di Docker**
+1. **(Opsional) Jalankan di Docker**
    ```bash
    docker run -it --network host -v ${PWD}:/app -w /app python:3.9 bash
    ```
 
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
