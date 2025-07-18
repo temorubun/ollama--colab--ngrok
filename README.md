@@ -72,4 +72,6 @@ Setelah itu, buka browser dan akses alamat yang muncul, misal:
 
 ## Contoh Tampilan
 
-Lihat file `img.png` untuk contoh tampilan aplikasi chatbot. 
+Berikut adalah contoh tampilan aplikasi chatbot:
+
+![Contoh Tampilan Chatbot](img.png) 
