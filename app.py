@@ -115,7 +115,7 @@ def load_chat(file_path):
             st.session_state['messages'].append({'role': role, 'content': decoded_content})
 
 def main():
-    st.title("DevSavvy Chatbot")
+    st.title("AI Chatbot")
     user_input = st.chat_input("Enter your prompt:", key="1")
     if 'show' not in st.session_state:
         st.session_state['show'] = 'True'
